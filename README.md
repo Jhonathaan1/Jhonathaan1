@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 Atualmente Procuro me Recolocar no mercado de trabalho.
 - 🌱 Estudando Python
 - 😄 Pronome: Ele/dele
