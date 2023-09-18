@@ -8,7 +8,7 @@
   
 
 
-![Jhonathaan1 GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonathaan1&show_icons=true&theme=dark)
+![Jhonathaan1 GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonathaan1&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathaan1&hide=javascript,html)
 
 <h3>Tecnologias que eu Uso</h3>
